@@ -1,0 +1,6 @@
+*test*
+node_modules/
+*.swp
+*.json
+ch*/
+Ch*/
